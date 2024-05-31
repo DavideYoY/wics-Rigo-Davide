@@ -1,0 +1,26 @@
+.app {
+  display: flex;
+  justify-content: space-around;
+}
+
+.section {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.expense-item {
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.date {
+  float: right;
+}
+
